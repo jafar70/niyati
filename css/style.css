@@ -8,6 +8,7 @@
     background-color: black;
     min-height: 60px;
     color: white;
+    border-bottom-color: transparent;
 }
 
 .navbar-header{
@@ -209,3 +210,51 @@ h3{
 		font-size: 15px;
 		padding-top: 50px;
 	}
+
+.design{
+	margin-top: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color:black;
+}
+
+.col-md-3 > i:hover,
+.col-md-3 > i:focus{
+	color: red;
+}
+
+.aboutus{
+	background-color: #3333cc;
+	color:white;
+	font-size: 16px;
+}
+
+#aboutusTitle{
+	padding-bottom: 20px;
+}
+
+#whyList > li{
+	padding-bottom: 10px;
+}
+
+#blogTitle{
+	text-align: center;
+	padding: 30px
+}
+
+.social{
+	list-style-type: none;
+}
+
+.social > li{
+	display: inline; 
+	padding-right: 15px;
+}
+
+.footer{
+	background-image: url(../img/footer.jpg);
+	color:white;
+	padding-top: 20px;
+	font-size: 16px;
+}
