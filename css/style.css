@@ -59,9 +59,25 @@
     margin-top: 0px;
 }
 
+.aboutusPara{
+	min-height: 50px;
+    background: transparent;
+    margin-top: 0px;
+}
+
 #parallax-home{
     margin-top:60px;
     text-align: center;
+}
+
+#parallax-aboutus{
+	padding-top: 90px;
+	padding-bottom: 60px;
+	color: white;
+}
+
+#parallax-aboutus h1{
+	padding-bottom: 25px;
 }
 
 h3{
@@ -257,4 +273,26 @@ h3{
 	color:white;
 	padding-top: 20px;
 	font-size: 16px;
+}
+
+.jafar{
+	background-color: black;
+	color: white;
+	padding-top: 10px
+}
+
+.action{
+	margin-top: 30px;
+	text-align: center;
+}
+
+#aboutusicon{
+	padding: 0px;
+	text-align: left;
+	color:black;
+	
+}
+
+.frank{
+	padding-bottom: 10px;
 }
