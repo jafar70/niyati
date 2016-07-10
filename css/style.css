@@ -296,3 +296,25 @@ h3{
 .frank{
 	padding-bottom: 10px;
 }
+
+.intro{
+	padding: 50px;
+	font-size: 22px;
+	color: black;
+}
+
+.reasons h3{
+	padding: 0px;
+	color:black;
+	margin: 0px;
+}
+
+.reasons{
+	background-color:#ecf0f1;
+	padding-top: 30px;
+}
+
+.staff h3{
+	color: black;
+	padding: 0px;
+}
