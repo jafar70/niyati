@@ -288,7 +288,7 @@ h3{
 
 #aboutusicon{
 	padding: 0px;
-	text-align: left;
+	text-align: center;
 	color:black;
 	
 }
@@ -317,4 +317,50 @@ h3{
 .staff h3{
 	color: black;
 	padding: 0px;
+}
+
+.panel-body h3{
+	margin: 0px;
+	color:black;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#career{
+	background-color:#ff1a1a;
+	color:white;
+	padding-top:80px;
+	padding-bottom:50px;
+}
+
+#career h3{
+	padding-top: 0px;
+}
+
+.contact {
+	padding-bottom:30px;
+	padding-top:30px;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:80%;
+    width:100%;
+    position:absolute;
+}
+
+.rahim{
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top:10px;
+	font-size:18px;
+	
 }
